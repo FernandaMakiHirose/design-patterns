@@ -34,3 +34,31 @@ Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
 
 ## Visual Studio
 - Criar projeto dentro de um projeto: Use o `Class Library`
+
+## Quiz
+### “Define uma interface que abstrai a complexidade de uma interface de subsistemas, ou seja, simplifica a utilização de subsistemas complexos.” Estamos falando de qual pattern?
+Facade.
+
+### _______ permite centralizar a configuração de instâncias do tipo HttpClient, possibilitando que instâncias empregadas no consumo de APIs REST sejam retornadas via injeção de dependência ao longo de um projeto Web.
+HttpClient Factory.
+
+### Em quais linguagens de programação abaixo, permitem a implementação de “Design Patterns”:
+Independe da linguagem ou paradigma de programação.
+
+### O que são “Design Patterns”?
+São soluções elegantes, testadas e aprovadas para problemas recorrentes no processo de desenvolvimento de software.
+
+### Os padrões de projeto de software são classificados de acordo com a funcionalidade. Assim, eles podem ser criacionais, estruturais ou comportamentais. 
+Builder, Bridge e Observer.
+
+### De acordo com o curso, o que você entende por Swagger:
+Uma aplicação open source que auxilia desenvolvedores nos processos de documentar e consumir APIs REST.
+
+### “Garante uma única instância da classe e um acesso global para ela, ou seja, centraliza e compartilha recursos.” Estamos falando de qual pattern?
+Singleton.
+
+### Faz uma abstração (“meio de campo”) entre o domínio e a camada de dados, ou seja, contribui para o isolamento da camada de acesso a dados. Estamos falando de qual pattern?
+Repository.
+
+### Como os Design Patterns são classificados pela GoF:
+Em 3 grupos: Creational Patterns, Structural Pattern e Behavioral Patterns.
