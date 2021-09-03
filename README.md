@@ -1,5 +1,12 @@
 # Introdução a Design Patterns com .NET
+## Requisitos
+- Visual Studio
+- Conhecimento em C# e .NET
+
 ![mural](https://user-images.githubusercontent.com/72028645/132047300-35966d45-7c03-466e-a5fa-6d3510b5aaa6.png)
+
+## Abra o projeto em
+>https://localhost:44335/swagger/index.html
 
 ## Design Patterns
 - São soluções elegantes, testadas e aprovadas para problemas recorrentes que temos no design e implementação de software.
