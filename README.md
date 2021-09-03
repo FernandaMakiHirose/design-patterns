@@ -9,3 +9,17 @@
 
 ## Design Patterns - Hands on
 ![handson](https://user-images.githubusercontent.com/72028645/132047785-af8a1b8f-0feb-452b-a937-8b25f71a56a2.png)
+
+## Como criei o projeto?
+- Visual Studio
+- ASP.NET Core Web API
+- Configurar HTTPS (Sim)
+
+## Swagger
+- No pacote do NuGet adicione o pacote `Swashbuckle.AspNetCore`
+- Clique com o botão direito no diretório do projeto > Propriedades > Build > XML documentation (Marque essa opção)
+- O código do Swagger foi adicionado no `Startup.cs`
+- Os arquivos `WeatherForecastController.cs` e `WeatherForecast.cs` foram excluídos
+
+## Visual Studio
+- Criar projeto dentro de um projeto: Use o `Class Library`
