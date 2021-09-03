@@ -6,3 +6,5 @@
 - Não é um padrão pronto para ser aplicado no seu código, é uma descrição/template de como resolver o seu problema nas mais diferentes situações. 
 
 ![grafico](https://user-images.githubusercontent.com/72028645/132047650-ee81db0b-8d92-4e9d-9333-eea5d2cb451f.png)
+
+## Design Patterns - Hands on
