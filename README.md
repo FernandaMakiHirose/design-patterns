@@ -8,3 +8,4 @@
 ![grafico](https://user-images.githubusercontent.com/72028645/132047650-ee81db0b-8d92-4e9d-9333-eea5d2cb451f.png)
 
 ## Design Patterns - Hands on
+![handson](https://user-images.githubusercontent.com/72028645/132047785-af8a1b8f-0feb-452b-a937-8b25f71a56a2.png)
